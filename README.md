@@ -6,6 +6,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 ![Baracho GitHub stats](https://github-readme-stats.vercel.app/api?username=italobaracho&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=onedark)](https://github.com/italobaracho)
+
 
 ### Tecnologia que uso no dia a dia 
 
