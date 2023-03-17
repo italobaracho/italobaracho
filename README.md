@@ -19,5 +19,5 @@
                                                                                                                                               
 ## Se especializando na area de Cloud:
                                                                                                                                              
-- Todos os dias estou conectado com essa área e com estudos tbm em DevOps e SRE, e estou apaixonado nos desafios em nuvem que ela trás consigo e pelas automações de soluções que ela trás para facilitar o dia a dia da área                                                                                                                                             
+- Todos os dias estou conectado com essa área e com estudos tbm em DevOps e SRE, e estou apaixonado nos desafios em nuvem que ela trás consigo e pelas automações de soluções que ela trás para facilitar o dia a dia na área                                                                                                                                             
                                                                                                                                          
