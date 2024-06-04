@@ -22,5 +22,5 @@
                                                                                                                                               
 ## Se especializando na area de Cloud:
                                                                                                                                              
-- Todos os dias estou conectado com essa área e com estudos tbm em DevOps e Engenharia de dados, e estou apaixonado nos desafios em nuvem que ela trás consigo e pelas automações em soluções que ela trás para facilitar o dia a dia na área                                                                                                                                             
+- Todos os dias estou conectado com essa área de dados e com estudos tbm em DevOps, estou apaixonado nos desafios em nuvem que ela trás consigo e pelas automações em soluções que ela trás para facilitar o dia a dia na área                                                                                                                                             
                                                                                                                                          
