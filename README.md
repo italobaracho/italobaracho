@@ -17,10 +17,9 @@
   <img align="center alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img align="center alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
                                                                                                                                               
-## Se especializando na area de Cloud:
+## Se especializando na area de Dados e Cloud:
                                                                                                                                              
 - Todos os dias estou conectado com essa área de dados e com estudos tbm em DevOps, estou apaixonado nos desafios em nuvem que ela trás consigo e pelas automações em soluções que ela trás para facilitar o dia a dia na área                                                                                                                                             
                                                                                                                                          
